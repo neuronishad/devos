@@ -1,5 +1,1 @@
-1. Download Arch ISO
-2. Boot into ISO (vm, bootable device)
-3. Check internet connectivity by
-   ping google.com
-4. If no connectivity, refer installation guide to connect to internet
+Install Arch and complete installation guide
